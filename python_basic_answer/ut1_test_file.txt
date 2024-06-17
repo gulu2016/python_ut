@@ -1,0 +1,13 @@
+{
+  "ClientLocalTime": "2023-12-06T07:42:49.7751271+00:00",
+  "PartnerName": "sydney",
+  "ScenarioName": "sydney",
+  "RequestStartTime": "2023-12-06T07:42:49.7751271+00:00",
+  "RouteName": "query",
+  "ConversationId": "a25da356-cd0e-4c63-bbb8-30f5a814a310",
+  "TraceId": "9ad3f9a1-ff97-2bcf-c371-d0e6b8888929",
+  "LogicalId": "6b83346a-f1a0-483e-94c9-41226e3fe0fd",
+  "UserAgent": "xPingAgent-Sydney",
+  "RequestHttpMethod": "POST",
+  "RequestUrlParameters": "setflight=EnableSendSummaryPromptDetails,DisableNaturalSearchLLMSummarization,PeopleDiscoverySynthesis,clientappoverride=fb8d773d-7ef8-4ec0-a117-179f88add510"
+}
